@@ -1,0 +1,4 @@
+#Mon Jan 23 16:32:55 ICT 2023
+base.0=C\:\\Users\\Deva Aji Saputra\\Downloads\\toko_cat_mobile\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
